@@ -1,5 +1,6 @@
 import React, { PureComponent } from "react";
-import { ViewPropTypes, NativeModules } from "react-native";
+import { NativeModules } from "react-native";
+import { ViewPropTypes } from "deprecated-react-native-prop-types";
 import PropTypes from "prop-types";
 
 import RNImageHelper from 'react-native-image-helper'
